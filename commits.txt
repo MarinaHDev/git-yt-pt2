@@ -1,0 +1,93 @@
+commit 107ab4beca682ca00a611ed79cac204b458c8155
+Author: Marina HM <marinadev0623@gmail.com>
+Date:   Wed Sep 27 16:11:33 2023 -0600
+
+    este es el commit que sigue
+
+commit d141d4e955b13811276263c0815893176884d818
+Author: Marina HM <marinadev0623@gmail.com>
+Date:   Mon Sep 25 18:38:16 2023 -0600
+
+    Agregando dos párrafos
+
+commit e9e863e5cada30919ef989cf03f0f26305d98bff
+Author: Marina HM <marinadev0623@gmail.com>
+Date:   Mon Sep 25 18:26:54 2023 -0600
+
+    Agregando las estaciones del año con fecha de inicio
+
+commit b04155efaa4be6871fa62e5f82866865e8d6d9a5
+Merge: 9aaf0db 1e7c284
+Author: Marina HM <marinadev0623@gmail.com>
+Date:   Mon Sep 25 18:22:00 2023 -0600
+
+    Resolviendo conflicto merge main html en el documento index.html
+
+commit 1e7c284d8a3f39500cc758805558898f94ba9d19
+Author: Marina HM <marinadev0623@gmail.com>
+Date:   Mon Sep 25 18:17:59 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 9aaf0dbfb97aedcf1fd7226d50e439e5ec272fe0
+Author: Marina HM <marinadev0623@gmail.com>
+Date:   Mon Sep 25 18:15:27 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 34cf48d83f21893ec79c906edb5dc5637bf79a17
+Merge: 8805297 1eb9fa1
+Author: Marina HM <marinadev0623@gmail.com>
+Date:   Mon Sep 25 18:07:43 2023 -0600
+
+    Merge branch 'js'
+
+commit 88052975ffc0bda010e9b3ee2b1363a93ba7449b
+Merge: ed4f7e8 9e14616
+Author: Marina HM <marinadev0623@gmail.com>
+Date:   Mon Sep 25 18:07:33 2023 -0600
+
+    Merge branch 'css'
+
+commit ed4f7e875d3b414af4b15c48c8bafcbcf9185616
+Merge: 8496703 d4926ce
+Author: Marina HM <marinadev0623@gmail.com>
+Date:   Mon Sep 25 18:06:46 2023 -0600
+
+    Merge branch 'html'
+
+commit 8496703b480db8984e634cc47ce09f82c53fcdd9
+Author: Marina HM <marinadev0623@gmail.com>
+Date:   Mon Sep 25 09:59:28 2023 -0600
+
+    Probando un cambio
+
+commit 1eb9fa1078dfe2f093167e3efc2d0b70891c35ef
+Author: Marina HM <marinadev0623@gmail.com>
+Date:   Mon Sep 25 09:54:51 2023 -0600
+
+    Creando index.js
+
+commit 9e14616049f84cebce139c8348f24295018d6257
+Author: Marina HM <marinadev0623@gmail.com>
+Date:   Mon Sep 25 09:51:51 2023 -0600
+
+    Creando style.css
+
+commit d4926ce5b1eb203ce316ea9c20440a08efb3844a
+Author: Marina HM <marinadev0623@gmail.com>
+Date:   Mon Sep 25 09:44:26 2023 -0600
+
+    Creando archivo HTML
+
+commit 316bc9275c95a63519996e3e08951c718a875fbb
+Author: Marina HM <marinadev0623@gmail.com>
+Date:   Mon Sep 25 09:21:34 2023 -0600
+
+    Agregando contenido al readme
+
+commit 66163f37ac5f7843e2a9e899f58468e6820bd81b
+Author: Marina HM <marinadev0623@gmail.com>
+Date:   Mon Sep 25 09:19:26 2023 -0600
+
+    mi primer commit

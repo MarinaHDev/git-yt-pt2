@@ -1,0 +1,23 @@
+* 107ab4b este es el commit que sigue
+* d141d4e Agregando dos párrafos
+* e9e863e Agregando las estaciones del año con fecha de inicio
+*   b04155e Resolviendo conflicto merge main html en el documento index.html
+|\  
+| * 1e7c284 Agregando index.js al index.html
+* | 9aaf0db Agregando style.css al index.html
+* |   34cf48d Merge branch 'js'
+|\ \  
+| * | 1eb9fa1 Creando index.js
+* | |   8805297 Merge branch 'css'
+|\ \ \  
+| * | | 9e14616 Creando style.css
+| | |/  
+| |/|   
+* | | ed4f7e8 Merge branch 'html'
+|\| | 
+| * | d4926ce Creando archivo HTML
+| |/  
+* / 8496703 Probando un cambio
+|/  
+* 316bc92 Agregando contenido al readme
+* 66163f3 mi primer commit
