@@ -1,4 +1,9 @@
 html {
     background-color: black;
     color: white;
+    text-align: center;
+}
+
+img{
+    max-width: 100%;
 }
